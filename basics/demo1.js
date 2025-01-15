@@ -19,5 +19,5 @@ let s_num = String(num);
 console.log(num);
 console.log(s_num);
 console.log(typeof num);
-console.log(typeof s_num);
+// console.log(typeof s_num);
 
