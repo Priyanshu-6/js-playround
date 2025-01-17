@@ -29,7 +29,7 @@ console.log(name.length);
 console.log(name.charAt(3));
 console.log(name.indexOf("A"));
 
-console.log(name.subString());
+// console.log(name.subString());
 
 
 
