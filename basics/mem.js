@@ -21,16 +21,17 @@ let s = "name is name";
 
 s =`name is king`;
 // console.log(s);
-const name= new String('A kaa');
+const name= new String(` kaAa ${s} A`);
 
 console.log(name);
-console.log(name.__proto__);
-console.log(name.length);
-console.log(name.charAt(3));
-console.log(name.indexOf("A"));
+// console.log(name.__proto__);
+// console.log(name.length);
+// console.log(name.charAt(3));
+// console.log(name.indexOf("A"));
 
 // console.log(name.subString());
 
+// name.slice()
 
 
 
