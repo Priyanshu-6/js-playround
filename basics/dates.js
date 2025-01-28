@@ -4,5 +4,3 @@ let date = new Date();
 
 let today= new Date()
 console.log(today.get('MM-DD-YY'));
-
-
